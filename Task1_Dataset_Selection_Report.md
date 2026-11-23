@@ -12,10 +12,10 @@ The purpose of this task is to identify a publicly accessible biological dataset
 - Official record: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42568
 
 ### 3. Dataset description
-GSE42568 is a GEO Series record concerning gene-expression profiling of human breast tissue in a breast-cancer research context. GEO records generally provide study-level descriptions, sample records, platform information, and links to processed or supplementary data. The exact sample totals, group labels, platform accession, and processing details should be transcribed from the current GEO record and its linked files.
+GSE42568 is a public gene-expression profiling dataset hosted by the NCBI Gene Expression Omnibus (GEO). It contains 121 human breast tissue samples, including 104 breast cancer biopsies and 17 normal breast tissue samples. The experiment uses the GPL570 platform (Affymetrix Human Genome U133 Plus 2.0 Array). The dataset is relevant to breast cancer genomics and transcriptomic research.
 
 ### 4. Dataset size
-The exact sample count and number of measured features must be verified from the live GEO Series page / Series Matrix before final submission. Do not confuse the number of microarray probe identifiers with the number of unique genes. Record the values as displayed in the source and state what each count represents.
+The GSE42568 dataset contains 121 samples: 104 breast cancer biopsies and 17 normal breast tissue samples. The experiment uses the GPL570 microarray platform. GEO sample expression tables contain 54,675 probe identifiers. These identifiers represent microarray probes, not necessarily 54,675 unique genes. Processed expression data are available through GEO sample records.
 
 ### 5. Proposed research question
 **How do gene-expression patterns differ between breast cancer tissue samples and non-cancerous breast tissue samples in GSE42568?**
@@ -39,7 +39,7 @@ This task is limited to dataset selection and documentation. It does not include
 ### 9. Source
 NCBI Gene Expression Omnibus. GSE42568. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42568
 
-The original study citation should be taken from the GEO record and included in any subsequent analysis or publication.
+Clarke, C., Madden, S. F., Doolan, P., Aherne, S. T., Joyce, H., O'Driscoll, L., et al. (2013). Correlating transcriptional networks to breast cancer survival: A large-scale coexpression analysis. Carcinogenesis, 34(10), 2300–2308. https://doi.org/10.1093/carcin/bgt208⁠.
 
 ### 10. Conclusion
 GSE42568 provides a public starting point for exploring breast-cancer-related gene-expression data. Documenting the accession, source, dataset structure, and a focused research question is the first step toward a reproducible bioinformatics project.
