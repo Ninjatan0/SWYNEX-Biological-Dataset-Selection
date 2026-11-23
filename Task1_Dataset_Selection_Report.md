@@ -12,13 +12,39 @@ The purpose of this task is to identify a publicly accessible biological dataset
 - Official record: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42568
 
 ### 3. Dataset description
-GSE42568 is a public gene-expression profiling dataset hosted by the NCBI Gene Expression Omnibus (GEO). It contains 121 human breast tissue samples, including 104 breast cancer biopsies and 17 normal breast tissue samples. The experiment uses the GPL570 platform (Affymetrix Human Genome U133 Plus 2.0 Array). The dataset is relevant to breast cancer genomics and transcriptomic research.
+
+GSE42568 is a publicly available gene-expression profiling dataset hosted by the National Center for Biotechnology Information (NCBI) Gene Expression Omnibus (GEO).
+
+The dataset contains gene-expression data from 121 human breast tissue samples:
+
+- 104 breast cancer biopsy samples.
+- 17 normal breast tissue samples.
+
+The samples were analysed using the GPL570 Affymetrix Human Genome U133 Plus 2.0 Array platform.
+
+The dataset provides an opportunity to study differences in gene-expression patterns between breast cancer and normal breast tissue.
+
+Source: NCBI GEO – GSE42568
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42568
 
 ### 4. Dataset size
-The GSE42568 dataset contains 121 samples: 104 breast cancer biopsies and 17 normal breast tissue samples. The experiment uses the GPL570 microarray platform. GEO sample expression tables contain 54,675 probe identifiers. These identifiers represent microarray probes, not necessarily 54,675 unique genes. Processed expression data are available through GEO sample records.
+
+The selected dataset contains the following information:
+
+Dataset parameter| Verified value
+Total samples| 121
+Breast cancer samples| 104
+Normal breast samples| 17
+Microarray platform| GPL570
+Number of probe identifiers per sample expression table| 54,675
+Raw supplementary archive| 935.2 MB
+
+Important clarification: The 54,675 entries represent microarray probe identifiers, not 54,675 unique genes. The dataset provides processed expression data within its GEO sample tables.
+
+These values were checked against the official NCBI GEO record and associated sample data.
 
 ### 5. Proposed research question
-**How do gene-expression patterns differ between breast cancer tissue samples and non-cancerous breast tissue samples in GSE42568?**
+**Can gene expression profiles distinguish breast cancer tissue samples from normal breast tissue samples using the publicly available GSE42568 dataset?**
 
 This is a proposed research question, not a result. No differential-expression analysis has been performed for this task.
 
