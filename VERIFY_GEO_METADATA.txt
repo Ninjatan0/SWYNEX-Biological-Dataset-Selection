@@ -1,0 +1,13 @@
+# Before submitting: verify these values on the live GEO page
+
+Open: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42568
+
+Record from the current GEO page:
+- Number of samples (GSM records):
+- Sample group labels and counts:
+- Platform accession(s) (GPL):
+- Organism:
+- Processed data file / Series Matrix availability:
+- Original publication citation (if listed):
+
+Do not submit unverified counts. If the sample count and platform details in an earlier draft differ from the current GEO page, use the current GEO record and update README.md and the report.

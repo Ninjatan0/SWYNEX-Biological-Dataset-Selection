@@ -1,0 +1,21 @@
+🧬 **SWYNEX Task 1 | Biological Dataset Selection**
+
+I have completed the dataset-selection and documentation task as part of my learning journey with **@SWYNEX Technologies**.
+
+For this task, I explored a public gene-expression dataset from the NCBI Gene Expression Omnibus (GEO):
+
+🔬 **Dataset:** GSE42568  
+🧫 **Organism:** *Homo sapiens*  
+📚 **Research area:** Breast cancer genomics  
+🔗 **NCBI record:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42568
+
+**Proposed research question:**  
+How do gene-expression patterns differ between breast cancer tissue samples and non-cancerous breast tissue samples in this dataset?
+
+This task helped me practise locating a public biological dataset, identifying its source and accession, describing its scientific context, and framing a research question.
+
+This submission focuses on dataset selection and documentation; I have not claimed to perform gene-expression analysis.
+
+I look forward to developing my skills in bioinformatics and computational biology.
+
+#SWYNEX #Bioinformatics #Biotechnology #CancerGenomics #GeneExpression #NCBI #GEO #Internship

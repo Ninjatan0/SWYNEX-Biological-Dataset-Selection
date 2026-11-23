@@ -1,0 +1,15 @@
+# 60-second screen-recording script
+
+Hello, this is my SWYNEX Task 1, Biological Dataset Selection.
+
+For this task, I selected GSE42568 from the NCBI Gene Expression Omnibus, also known as GEO.
+
+The dataset is related to gene-expression profiling in human breast tissue and is relevant to breast cancer genomics.
+
+The official NCBI accession page is visible here. It provides the study description, sample records, platform details, and access to the available data.
+
+My proposed research question is: How do gene-expression patterns differ between breast cancer tissue samples and non-cancerous breast tissue samples in this dataset?
+
+This task is focused on selecting and documenting a public dataset. I have not performed a gene-expression analysis or claimed any biological findings.
+
+Thank you.
